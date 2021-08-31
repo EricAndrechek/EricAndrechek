@@ -3,7 +3,7 @@
 
 ---
 
-I'm a Senior at Okemos High School and will be starting Software Engineering this fall at the University of Michigan.
+I'm a Freshman in the College of Engineering at the University of Michigan and am studying Software Engineering.
 
 Proud GNU/Linux user and avid tinkerer. If it ain't broke, it will be soon.
 
