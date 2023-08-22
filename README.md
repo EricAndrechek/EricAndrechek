@@ -15,20 +15,4 @@ I’m currently working on (/procrastinating working on...):
 - [MultiViewer](https://multiviewer.app/) [StreamDeck](https://github.com/f1-tools/MVF1-Streamdeck) and [Mobile App]()
 - Homework? (optional)
 
-<!---
----
-
-### Stats
-
-
-![EricAndrechek's GitHub stats](https://github-readme-stats-two-kappa.vercel.app/api?username=EricAndrechek&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-two-kappa.vercel.app/api/top-langs/?username=EricAndrechek&layout=compact)
-
-<img src="https://wakatime.com/share/@EricAndrechek/f52574a6-e6c4-424c-ba6d-127ef86941e6.svg" alt="languages"  height="500" />
-
-<img src="https://wakatime.com/share/@EricAndrechek/d09067d3-e9c4-4f98-a9a5-bbdd0ce4e794.svg" alt="hours" height="500" />
-
-![](https://hit.yhype.me/github/profile?user_id=35144594)
-
--->
+Currently, I am open to work for Summer of 2024. Shoot me an email or connect with me [on LinkedIn](https://www.linkedin.com/in/eric-andrechek/)!
