@@ -16,3 +16,7 @@ I’m currently working on (/procrastinating working on...):
 - Homework? (optional)
 
 Currently, I am open to work for Summer of 2024. Shoot me an email or connect with me [on LinkedIn](https://www.linkedin.com/in/eric-andrechek/)!
+
+
+<!-- ignore this plz, I'm just trying to track you -->
+![](https://hit.yhype.me/github/profile?user_id=35144594)
