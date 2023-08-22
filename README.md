@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Eric
-[![Twitter](https://img.shields.io/badge/Twitter-EricAndrechek-blue)](https://twitter.com/EricAndrechek) [![Instagram](https://img.shields.io/badge/Instagram-eric__andrechek-blue)](https://www.instagram.com/eric_andrechek/) [![Email](https://img.shields.io/badge/Email-ericandrechek@gmail.com-blue)](mailto:ericandrechek@gmail.com) ![Discord](https://img.shields.io/badge/Discord-eric1100-blue) ![Profile visits](https://komarev.com/ghpvc/?username=EricAndrechek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eric--andrechek-blue)](https://www.linkedin.com/in/eric-andrechek/) [![Email](https://img.shields.io/badge/Email-ericandrechek@gmail.com-blue)](mailto:ericandrechek@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-eric__andrechek-blue)](https://www.instagram.com/eric_andrechek/) [![Twitter](https://img.shields.io/badge/Twitter-EricAndrechek-blue)](https://twitter.com/EricAndrechek) ![Discord](https://img.shields.io/badge/Discord-eric1100-blue) ![Profile visits](https://komarev.com/ghpvc/?username=EricAndrechek)
 
 ---
 
